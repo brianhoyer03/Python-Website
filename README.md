@@ -1,2 +1,7 @@
 ## Página Web con Python.
-#### Author : Brian Hoyer 
+#### Herramientas
+#### * Google Chrome
+#### * Visual Studio Code
+#### * Python 3
+#### * Flask
+#### * Html
